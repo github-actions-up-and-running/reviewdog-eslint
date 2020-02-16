@@ -1,0 +1,6 @@
+{
+  "name": "reviewdog-eslint",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
